@@ -13,3 +13,5 @@ yarn build
 ```
 
 to bundle your application
+
+in this application I'm just playing with lit web components
