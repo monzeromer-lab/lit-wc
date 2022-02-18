@@ -1,9 +1,10 @@
 
 import {
   LitElement,
-  html,
-  css
+  html
 } from 'lit';
+
+import './style.css';
 
 export class MyElement extends LitElement {
   static properties() {
