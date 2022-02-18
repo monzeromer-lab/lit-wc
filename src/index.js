@@ -6,7 +6,7 @@ import {
 
 import './style.css';
 
-export class MyElement extends LitElement {
+export class APP extends LitElement {
   static properties() {
     this.name = {};
   }
@@ -23,4 +23,4 @@ export class MyElement extends LitElement {
   }
 }
 
-customElements.define('my-element', MyElement);
+customElements.define('wc-app', APP);
